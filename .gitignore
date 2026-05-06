@@ -1,0 +1,10 @@
+node_modules/
+lib/
+dist/
+temp/
+solution/
+*.sppkg
+.DS_Store
+*.log
+npm-debug.log*
+.env
