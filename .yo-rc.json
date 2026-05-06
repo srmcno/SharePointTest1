@@ -1,0 +1,14 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.21.1",
+    "libraryName": "bio-assessment",
+    "libraryId": "c1d2e3f4-a5b6-7890-cdef-123456789abc",
+    "packageManager": "npm",
+    "isDomainIsolated": false,
+    "componentType": "webpart",
+    "defaultGroupName": "bio-assessment",
+    "skipFeatureDeployment": false
+  }
+}

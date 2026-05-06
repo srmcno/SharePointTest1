@@ -1,0 +1,16 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/core-build/config.2.0.0-beta.18.json",
+  "version": "2.0",
+  "bundles": {
+    "bio-assessment-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/bioAssessment/BioAssessmentWebPart.js",
+          "manifest": "./src/webparts/bioAssessment/BioAssessmentWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {}
+}

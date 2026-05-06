@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "bio-assessment-client-side-solution",
+    "id": "c1d2e3f4-a5b6-7890-cdef-123456789abc",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": false,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "Water Resource Management Team",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.20.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "Bio Assessment Web Part for Water Resource Management"
+      },
+      "longDescription": {
+        "default": "A comprehensive bio assessment form for field collection of fish, mussel, plant, and water quality data."
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "bio-assessment Feature",
+        "description": "The feature that activates elements of the bio-assessment solution.",
+        "id": "d2e3f4a5-b6c7-8901-defa-234567890bcd",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/bio-assessment.sppkg"
+  }
+}
